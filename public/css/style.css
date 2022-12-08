@@ -1,0 +1,55 @@
+h1 {
+    color: #7037e9;
+    padding: 10px;
+  }
+  .box {
+    max-width: 350px;
+    margin: auto;
+  }
+  #heading {
+    text-align: center;
+    font-size: 18px;
+  }
+  input[type="text"] {
+    text-align: center;
+    border: none;
+    font-size: 30px;
+  }
+  p {
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: -20px;
+  }
+  .round input[type="checkbox"]:checked + label {
+    background-color: #7037e9;
+    border-color: #7037e9;
+  }
+  #b {
+    width: 55px;
+    background-color: rgb(245, 182, 65);
+    border: none;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 36px;
+    cursor: pointer;
+    color: white;
+    position: relative;
+    top: -60px;
+    left: 165px;
+  }
+  #s2 {
+    font-size: 50px;
+  }
+  form.item {
+    text-align: center;
+  }
+  .round label {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    height: 28px;
+    left: 10px;
+    border-radius: 50%;
+    top: 0;
+    width: 28px;
+  }
